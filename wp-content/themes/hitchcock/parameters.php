@@ -1,10 +1,10 @@
 <?php
 
-$connexion_string = "mysql:dbname=unlim1004139;host=185.98.131.93;charset=utf8";
+$connexion_string = "mysql:dbname=;host=;charset=utf8";
 
-$login = "unlim1004139";
+$login = "";
 
-$mdp = "0rndx7lx17";
+$mdp = "";
 
 
 
